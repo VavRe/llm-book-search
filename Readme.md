@@ -102,8 +102,7 @@ The project repository contains the following main components:
 │   ├── utils.py
 │   └── main.py
 ├── final_report.pdf
-├── proposal.md
-└── presentation.pptx
+└── MNLP_Presentation.pptx
 ```
 
 1. `data`: Contains the Persian Books Dataset and the AI-Generated Query-Document Relevance Dataset.
